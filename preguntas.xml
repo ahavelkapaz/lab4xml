@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"  href="verPreguntas.xsl" ?>
+<assessmentItems>
+	<assessmentItem complexity="2" subject="Web">
+		<itemBody>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+	</assessmentItem>
+		<assessmentItem complexity="4" subject="Internet">
+		<itemBody>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+	</assessmentItem>
+<assessmentItem complexity="0" subject="General"><itemBody><p>sdfsdf</p></itemBody><correctResponse><value>dsfsdf </value></correctResponse></assessmentItem><assessmentItem complexity="4" subject="General"><itemBody><p>sadsadas 22</p></itemBody><correctResponse><value>asfdasfasfsad 22</value></correctResponse></assessmentItem><assessmentItem complexity="5" subject="General"><itemBody><p>En que documento se define como y que orden sigue un documento XML</p></itemBody><correctResponse><value>XSD </value></correctResponse></assessmentItem><assessmentItem complexity="4" subject="XML"><itemBody><p>En que documento se define como y que orden sigue un documento XML</p></itemBody><correctResponse><value>XSD </value></correctResponse></assessmentItem><assessmentItem complexity="5" subject="XML"><itemBody><p>En que documento se define como y que orden sigue un documento XML</p></itemBody><correctResponse><value>XSD </value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="XML"><itemBody><p>En que documento se define como y que orden sigue un documento XML</p></itemBody><correctResponse><value>XSD </value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="XML"><itemBody><p>En que documento se define como y que orden sigue un documento XML</p></itemBody><correctResponse><value>XSD </value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="XML"><itemBody><p>En que documento se define como y que orden sigue un documento XML</p></itemBody><correctResponse><value>XSD </value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="Protocolos"><itemBody><p>Protocolo de transferencia de archivos</p></itemBody><correctResponse><value>FTP </value></correctResponse></assessmentItem><assessmentItem complexity="0" subject="XML"><itemBody><p>XSLT+XSLPATH+XSLFO= Hablamos de?</p></itemBody><correctResponse><value>XSL </value></correctResponse></assessmentItem></assessmentItems>
